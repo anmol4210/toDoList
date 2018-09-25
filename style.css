@@ -1,0 +1,42 @@
+.done {
+    text-decoration:line-through;
+}
+.hide {
+visibility:hidden;
+}
+
+
+
+body {
+    background-image: url("https://www.backgroundsy.com/file/large/digital-waves-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.input {
+    border: none;
+    border-radius: 8pt;
+    outline: none;
+}
+
+.checkbox {
+    height: 15pt;
+    width: 15pt;
+}
+
+
+
+ul {
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li {
+    font-size: 20pt;
+}
+
+
